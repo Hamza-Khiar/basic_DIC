@@ -1,0 +1,19 @@
+{
+  "name": "hk-master/architect",
+  "type": "project",
+  "require": {
+    "psr/container": "^2.0@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Architect\\": "Utils/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hamza Khiar",
+      "email": "hamza.khiar.01@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
